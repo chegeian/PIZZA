@@ -1,5 +1,5 @@
 
-# Pizza-Deliciosa
+# Pizza-App
 ## Author
 [chegeian](https://github.com/chegeian/PIZZA)
 
